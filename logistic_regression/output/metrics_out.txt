@@ -1,0 +1,4 @@
+error(train): 0.042500
+error(test): 0.150000
+loss(train): 0.342576
+loss(test): 0.462652
